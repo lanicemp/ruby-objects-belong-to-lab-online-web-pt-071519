@@ -17,4 +17,4 @@ class Artist
  
 end
  
-drake = Artist.new("Drake", "rap")
+#drake = Artist.new("Drake", "rap")
