@@ -17,4 +17,4 @@ class Artist
  
 end
 
-drake = 
+drake = Artist.new 
